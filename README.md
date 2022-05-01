@@ -30,3 +30,22 @@ Your output should appear as follows:
 ![Image_One](image_one.png)
 
 ![Image_Two](image_two.png)
+
+## Task 2: Print their information.
+
+After the user enters their information, you'll print:
+
+```python
+Thank you for joining JavaGram!
+```
+
+Then, display their information in a nice format:
+
+![Image_Two](image_two.png)
+
+If you want a nice format:
+
+  1. Put a line of space between: "Thank you for joining Javagram " and " Here is the information you entered ". You can use the escape character **\n.**
+
+  2. Put a tab of space before each piece of information. You can use the escape character **\t.**
+
