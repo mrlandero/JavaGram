@@ -27,9 +27,9 @@ First, you will ask the user to enter:
 
 Your output should appear as follows:
 
-![Image_One](image_one.png)
+![Image_One](images/image_one.png)
 
-![Image_Two](image_two.png)
+![Image_Two](images/image_two.png)
 
 ## Task 2: Print their information.
 
@@ -41,7 +41,7 @@ Thank you for joining JavaGram!
 
 Then, display their information in a nice format:
 
-![Image_Two](image_two.png)
+![Image_Two](images/image_two.png)
 
 If you want a nice format:
 
@@ -51,6 +51,6 @@ If you want a nice format:
 
 ## Run Your Code
 
-![Image_One](image_one.png)
+![Image_One](images/image_one.png)
 
-![Image_Two](image_two.png)
+![Image_Two](images/image_two.png)
